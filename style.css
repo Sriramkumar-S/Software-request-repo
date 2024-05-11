@@ -1,16 +1,16 @@
 .parent{
     background-color: aqua;
-    width: 100%;
+    width: 50%;
     height: 44vi;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25%;
 }
 .container {
-    border: 2px solid rgb(118, 159, 195);
+    border: 2px solid lavender;
     background-color: #fff;
-    width: 40%;
-    position: relative;
-    top: 10%;
-    bottom: 10%;
-    left: 30%;
+    width: 70%;
 }
 .inputs {
     padding: 0 10%;
